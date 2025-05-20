@@ -4,6 +4,8 @@ This is an implementation of a simple text editor in MATLAB, with each character
 
 The basic navigation is inspired by VIM, and includes two main editing modes: `Normal` and `Insert`.
 
+`simpleGameEngine.m` is taken from OSU's ENGR 1181 course. This was not done for the course, but just an example of what's possible with the game engine without modifications.
+
 ## Normal Mode
 
 Normal mode is the default mode when the application starts.
